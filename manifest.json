@@ -1,0 +1,35 @@
+{
+    "name": "오렌지 뮤직 미리보기",
+    "short_name": "오렌지 뮤직",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FAF6F2",
+    "theme_color": "#FF6B00",
+    "description": "오렌지 뮤직 웹 미리보기 — 기능·문구·가사 품질을 브라우저에서 확인한다.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
